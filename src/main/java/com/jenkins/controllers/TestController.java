@@ -17,7 +17,7 @@ public class TestController{
         data.put("message","This is SpringBoot project for testing using Docker");
         data.put("langauge", Arrays.asList("Java","Python","JavaScript"));
         data.put("code",1818);
-//        data
+        data.put("newkey","20 April data");
         return data;
     }
 
