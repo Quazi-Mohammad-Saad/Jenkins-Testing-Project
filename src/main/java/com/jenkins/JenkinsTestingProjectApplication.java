@@ -10,6 +10,7 @@ public class JenkinsTestingProjectApplication {
 		SpringApplication.run(JenkinsTestingProjectApplication.class, args);
 		System.out.println("Inside The Main Application");
 		System.out.println("Jenkins Project working fine");
+		System.out.println("Adding 20 April, 2024");
 	}
 
 }
